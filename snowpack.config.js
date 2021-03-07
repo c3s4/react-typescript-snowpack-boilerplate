@@ -8,6 +8,7 @@ module.exports = {
     '@snowpack/plugin-react-refresh',
     '@snowpack/plugin-dotenv',
     '@snowpack/plugin-typescript',
+    '@canarise/snowpack-eslint-plugin',
   ],
   routes: [
     /* Enable an SPA Fallback in development: */
